@@ -1,6 +1,8 @@
 Unique Passwords
 ================
 
+In the [older version][5], the password is plain text, updated that to hidden (password field).
+
 You can use the [password generator][1] to create strong but unique passwords for all your web accounts. It internally uses the bcrypt algorithm for hashing.
 
 ###How to Use
@@ -42,3 +44,4 @@ Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 [2]: http://www.labnol.org/internet/responsive-web-design-faq/21361/
 [3]: http://www.labnol.org/software/password-protect-folders-files/14323/
 [4]: http://www.labnol.org/internet/secure-dropbox-account/25096/
+[5]: https://github.com/labnol/passwords
