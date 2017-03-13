@@ -1,7 +1,7 @@
 Unique Passwords
 ================
 
-In the [older version][5], the password is plain text, updated that to hidden (password field).
+[UPDATE] In the [older version][5], the password is plain text, updated that to hidden (password field).
 
 You can use the [password generator][1] to create strong but unique passwords for all your web accounts. It internally uses the bcrypt algorithm for hashing.
 
